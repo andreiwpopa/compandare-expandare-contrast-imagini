@@ -19,7 +19,7 @@ Codul pentru metoda pentru care face compandarea :
 ![224316](https://github.com/andreiwpopa/compandare-expandare-contrast-imagini/assets/116667882/e4b8bd8e-4a59-4931-9862-c70a04c91337)
 
 
-### Modificări neliniare de contrast prin expandarea domeniului - definită de o curbă logaritmică
+## Modificări neliniare de contrast prin expandarea domeniului - ca transformare inversă celei de compandare, deci având o alură exponențială.
 
 Pentru a aplica modificări neliniare de contrast prin expandarea domeniului, putem folosi o alură exponențială inversă a compandării logaritmice. Astfel, vom aplica o funcție exponențială asupra intensităților pixelilor pentru a expanda domeniul intensității. Formula matematică este următoarea:
 ![224955](https://github.com/andreiwpopa/compandare-expandare-contrast-imagini/assets/116667882/7a796ab4-82d5-4ef8-8497-a4dd8ee53c54)
